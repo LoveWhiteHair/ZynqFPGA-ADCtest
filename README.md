@@ -10,7 +10,7 @@
 爱发电链接
 [![爱发电赞助](https://img.shields.io/badge/爱发电-赞助支持-946ce6?style=flat-square&logo=afdian)](https://afdian.com/a/LoveWhiteHair)
 
-妙妙小工具收款<img width="1035" height="1446" alt="3806eee9cfcf9b649a725bb32c5a79c5" src="https://github.com/user-attachments/assets/3951fbc3-bbdd-43b8-9fdd-6566a2f5f2f7" />
+妙妙小工具收款<img width="103" height="144" alt="3806eee9cfcf9b649a725bb32c5a79c5" src="https://github.com/user-attachments/assets/3951fbc3-bbdd-43b8-9fdd-6566a2f5f2f7" />
 
 ## 第0章
 附件0.1.v
