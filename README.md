@@ -15,7 +15,11 @@
   <table align="center">
   <tr>
     <td align="center" width="200">
-      <img width="206" height="288" alt="3806eee9cfcf9b649a725bb32c5a79c5" src="https://github.com/user-attachments/assets/3951fbc3-bbdd-43b8-9fdd-6566a2f5f2f7" />
+      <img width="412" height="576" alt="3806eee9cfcf9b649a725bb32c5a79c5" src="https://github.com/user-attachments/assets/3951fbc3-bbdd-43b8-9fdd-6566a2f5f2f7" />
+      <br />
+      <b>USDT (Arbitrum One)</b>
+      <br />
+      <code>0x846EbD6E10315C388dAE9141fb99CBE5210F61C2</code>
     </td>
   </tr>
 </table>
