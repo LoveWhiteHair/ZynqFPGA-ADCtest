@@ -1,0 +1,30 @@
+set_property -dict {PACKAGE_PIN T14 IOSTANDARD LVCMOS18} [get_ports {din[0]}]
+set_property -dict {PACKAGE_PIN U12 IOSTANDARD LVCMOS18} [get_ports {din[1]}]
+set_property -dict {PACKAGE_PIN U13 IOSTANDARD LVCMOS18} [get_ports {din[2]}]
+set_property -dict {PACKAGE_PIN V13 IOSTANDARD LVCMOS18} [get_ports {din[3]}]
+set_property -dict {PACKAGE_PIN V15 IOSTANDARD LVCMOS18} [get_ports {din[4]}]
+set_property -dict {PACKAGE_PIN T15 IOSTANDARD LVCMOS18} [get_ports {din[5]}]
+set_property -dict {PACKAGE_PIN R16 IOSTANDARD LVCMOS18} [get_ports {din[6]}]
+set_property -dict {PACKAGE_PIN U17 IOSTANDARD LVCMOS18} [get_ports {din[7]}]
+set_property -dict {PACKAGE_PIN V17 IOSTANDARD LVCMOS18} [get_ports {din[8]}]
+set_property -dict {PACKAGE_PIN V18 IOSTANDARD LVCMOS18} [get_ports {din[9]}]
+set_property -dict {PACKAGE_PIN T16 IOSTANDARD LVCMOS18} [get_ports {din[10]}]
+set_property -dict {PACKAGE_PIN R17 IOSTANDARD LVCMOS18} [get_ports dr]
+
+#remember to set PULLTYPE KEEPER thus FPGA can receive data
+set_property PULLTYPE KEEPER [get_ports {din[10]}]
+set_property PULLTYPE KEEPER [get_ports {din[9]}]
+set_property PULLTYPE KEEPER [get_ports {din[8]}]
+set_property PULLTYPE KEEPER [get_ports {din[7]}]
+set_property PULLTYPE KEEPER [get_ports {din[6]}]
+set_property PULLTYPE KEEPER [get_ports {din[5]}]
+set_property PULLTYPE KEEPER [get_ports {din[4]}]
+set_property PULLTYPE KEEPER [get_ports {din[3]}]
+set_property PULLTYPE KEEPER [get_ports {din[2]}]
+set_property PULLTYPE KEEPER [get_ports {din[1]}]
+set_property PULLTYPE KEEPER [get_ports {din[0]}]
+set_property PULLTYPE KEEPER [get_ports dr]
+
+#tell Vivado not to treat dr as a clock signal
+set_property CLOCK_DEDICATED_ROUTE FALSE [get_nets dr_IBUF]
+
