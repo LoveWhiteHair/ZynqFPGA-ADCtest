@@ -15,12 +15,7 @@
   <table align="center">
   <tr>
     <td align="center" width="200">
-      <img width="103" height="144" alt="3806eee9cfcf9b649a725bb32c5a79c5" src="https://github.com/user-attachments/assets/3951fbc3-bbdd-43b8-9fdd-6566a2f5f2f7" />
-
-      <br />
-      <b>USDT (TRC-20)</b>
-      <br />
-      <code>TYxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</code>
+      <img width="206" height="288" alt="3806eee9cfcf9b649a725bb32c5a79c5" src="https://github.com/user-attachments/assets/3951fbc3-bbdd-43b8-9fdd-6566a2f5f2f7" />
     </td>
   </tr>
 </table>
