@@ -2,6 +2,8 @@
 作者是上海交通大学集成电路专业的一名研究生为测试芯片方便设计了此平台
 本文档分享了测试芯片时为接收数据，保存数据并实时可视化所设计的测试平台
 本测试平台基于Vivado+Vitis+Pycharm开发，分别对应PL+PS下位机部分，Python上位机部分,实现由FPGA板控制spi收发数据控制通过lwip网络上传至电脑通过PyQT实现实时可视化的全流程讲解
+如果对你有用的话可以请作者喝杯奶茶吗
+[![爱发电赞助](https://img.shields.io/badge/爱发电-赞助支持-946ce6?style=flat-square&logo=afdian)](https://afdian.com/a/LoveWhiteHair)
 ## 第0章
 附件0.1.v
 附件0.2.xdc
