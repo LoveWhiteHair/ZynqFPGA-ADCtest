@@ -8,6 +8,7 @@
 ## 致谢
 上位机软件的设计参考了Github项目https://github.com/muziing/NetAssist_PyQt
 
+## 赞助
 如果对你有用的话可以请作者喝杯奶茶吗
 
 爱发电链接
