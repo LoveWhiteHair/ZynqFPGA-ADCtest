@@ -14,7 +14,7 @@
 爱发电链接
 [![爱发电赞助](https://img.shields.io/badge/爱发电-赞助支持-946ce6?style=flat-square&logo=afdian)](https://afdian.com/a/LoveWhiteHair)
 <details>
-  <summary><b>🎁 点击展开/折叠妙妙工具赞助二维码</b></summary>
+  <summary><b>点击展开/折叠神秘渠道二维码</b></summary>
   <br>
   <table align="center">
   <tr>
