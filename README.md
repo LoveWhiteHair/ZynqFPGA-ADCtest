@@ -5,6 +5,7 @@
 
 本测试平台基于Vivado+Vitis+Pycharm开发，分别对应PL+PS下位机部分，Python上位机部分,实现由FPGA板控制spi收发数据控制通过lwip网络上传至电脑通过PyQT实现实时可视化的全流程讲解
 
+## 致谢
 上位机软件的设计参考了Github项目https://github.com/muziing/NetAssist_PyQt
 
 如果对你有用的话可以请作者喝杯奶茶吗
